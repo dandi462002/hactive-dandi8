@@ -1,12 +1,6 @@
 # Analisis Ketersediaan Fasilitas Perpustakaan SMK di Indonesia (2022/2023) 
 ## Dandi Darmasnyah
 [Dataset Link](https://data.go.id/dataset/dataset/ketersediaan-fasilitas-pendidikan-smk-smk-mak-sederajat-2023-indonesia)
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
 
 ##  Project Overview
 
